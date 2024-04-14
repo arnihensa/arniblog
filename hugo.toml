@@ -4,6 +4,10 @@ title = 'Arni Rat'
 theme = 'm10c'
 enableGitInfo = true
 
+[permalinks]
+  [permalinks.page]
+    posts = '/:slug/'
+
 [params]
 author = 'Arni'
 description = 'I make software and stream weird games'
