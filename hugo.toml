@@ -1,8 +1,8 @@
-baseURL = 'https://arni.live/'
+baseURL = 'https://arni.blog/'
 languageCode = 'en-us'
 title = 'Arni Rat'
 theme = 'm10c'
-enableGitInfo = false
+enableGitInfo = true
 
 [params]
 author = 'Arni'
