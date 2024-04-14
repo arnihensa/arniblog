@@ -1,4 +1,4 @@
-baseURL = 'https://arni.blog/'
+baseURL = 'https://arnirat.pages.dev/'
 languageCode = 'en-us'
 title = 'Arni Rat'
 theme = 'm10c'
@@ -14,8 +14,8 @@ description = 'I make software and stream weird games'
 avatar = '/pfp.png'
 
 [params.style]
-darkestColor = "#181108"
-darkColor = "#302619"
+darkestColor = "#201813"
+darkColor = "#3a2b22"
 lightColor = "#ccccc0"
 lightestColor = "#fffff0"
 primaryColor = "#ffffdd"
