@@ -2,7 +2,7 @@
 title = 'Blog is live!'
 date = 2024-04-13T07:50:25-05:00
 draft = false
-summary = 'This website will serve news about [my stream](https://twitch.tv/arnirat) and related projects.'
+summary = ' '
 +++
 
 Welcome to my new blog!
