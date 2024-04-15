@@ -27,3 +27,7 @@ Below are attributions for various 3D models that appear as props.
 "MfnPppy01" (https://skfb.ly/oOuRW) by MO3DELS™ is licensed under Creative Commons Attribution-ShareAlike (http://creativecommons.org/licenses/by-sa/4.0/).
 
 "Banana" (https://skfb.ly/6RSSG) by firehawksoftware is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+"Vault Boy Figurine" (https://skfb.ly/ot6Eq) by hellfa is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Small chalkboard" (https://skfb.ly/oFrBy) by Sousinho is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
