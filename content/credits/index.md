@@ -10,6 +10,8 @@ Below are attributions for various 3D models that appear as props.
 
 ## 3D Props
 
+"Rubber Duck" (https://skfb.ly/6BCuV) by emilsvfx is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 "Arwing - StarFox Assault" (https://skfb.ly/onyoP) by the_regressor is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 "Recurve Bow" (https://skfb.ly/6svYD) by Rectus is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
