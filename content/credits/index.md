@@ -4,9 +4,9 @@ date = 2024-04-12T12:11:01-05:00
 draft = false
 +++
 
-Arni's 3D model and attic backdrop - the room and outdoor shots - were created by Arni.
+Arni's 3D model and attic backdrop were created by Arni, with a lot of help from friends. ❤️
 
-Below are attributions for various 3D models that appear as props.
+2D PNGtuber by [Nic](https://www.patreon.com/nicopossum)!
 
 ## 3D Props
 
