@@ -46,11 +46,6 @@ name = "Arni's Videos"
 url = "https://www.youtube.com/@ArniRat"
 
 [[params.social]]
-icon = "bluesky"
-name = "Arni's Bluesky"
-url = "https://arnirat.bsky.social"
-
-[[params.social]]
 icon = "discord"
 name = "Arni's Discord"
 url = "https://discord.gg/QvH3e5Sa"
