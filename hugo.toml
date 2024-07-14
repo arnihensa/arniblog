@@ -1,6 +1,6 @@
-baseURL = 'https://arnirat.pages.dev/'
+baseURL = 'https://arni.blog/'
 languageCode = 'en-us'
-title = 'Arni Rat'
+title = 'arni.blog'
 theme = 'attic'
 enableGitInfo = true
 
@@ -9,16 +9,17 @@ enableGitInfo = true
     posts = '/:slug/'
 
 [params]
-author = 'Arni'
+author = 'Arni Hensa'
 description = 'I make software and stream weird games'
 avatar = '/pfp.png'
 
 [params.style]
-darkestColor = "#201813"
-darkColor = "#3a2b22"
-lightColor = "#ccccc0"
-lightestColor = "#fffff0"
-primaryColor = "#ffffdd"
+# darkestColor = "#201813"
+# darkColor = "#3a2b22"
+# lightColor = "#ccccc0"
+# lightestColor = "#fffff0"
+# primaryColor = "#ffffdd"
+lightModelinkColor = "#b95c00"
 
 [[menu.main]]
 identifier = "about"
