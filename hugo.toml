@@ -1,7 +1,7 @@
 baseURL = 'https://arnirat.pages.dev/'
 languageCode = 'en-us'
 title = 'Arni Rat'
-theme = 'm10c'
+theme = 'attic'
 enableGitInfo = true
 
 [permalinks]
