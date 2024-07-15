@@ -11,7 +11,7 @@ enableGitInfo = true
 [params]
 author = 'Arni Hensa'
 description = 'I make software and stream weird games'
-avatar = '/pfp.png'
+avatar = '/avatar.png'
 
 [params.style]
 # darkestColor = "#201813"
@@ -25,11 +25,6 @@ lightModelinkColor = "#b95c00"
 identifier = "about"
 name = "About"
 url = "/about/"
-
-[[menu.main]]
-identifier = "schedule"
-name = "Schedule"
-url = "/schedule/"
 
 [[menu.main]]
 identifier = "credits"

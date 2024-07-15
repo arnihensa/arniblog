@@ -2,6 +2,7 @@
   --lightmode-bg-color: {{ .Site.Params.style.lightModeBGColor | default "#FFFFFF" }};
   --lightmode-fg-color: {{ .Site.Params.style.lightModeFGColor | default "#000000" }};
   --lightmode-link-color: {{ .Site.Params.style.lightModeLinkColor | default "#5E5EFF" }};
+  --lightmode-accent-color-1: {{ .Site.Params.style.lightModeAccentColor1 | default "#DDDDDD" }};
 }
 
 body {
@@ -13,6 +14,7 @@ body {
 body.light {
   color: var(--lightmode-fg-color);
   background-color: var(--lightmode-bg-color);
+  margin: 0;
 
   a {
     color: var(--lightmode-link-color);
@@ -23,21 +25,39 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
+  min-height: 69vh;
 
-section {
-  max-width: 768px;
-  display: grid;
-  grid-template-columns: auto;
+  article {
+    max-width: 48rem;
+    display: grid;
+    grid-template-columns: auto;
+  }
 }
 
 header {
-  border-bottom: 1px solid #222;
   margin-bottom: 1rem;
+  background-color: var(--lightmode-accent-color-1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  img {
+    height: 8em;
+    width: 8em;
+  }
+  h1 {
+    margin: 0;
+  }
 }
 
 footer {
   border-top: 1px solid #222;
   margin-top: 1rem;
   text-align: center;
+  background-color: var(--lightmode-accent-color-1);
+  padding: 1em;
+
+  p {
+    margin: 0;
+  }
 }
