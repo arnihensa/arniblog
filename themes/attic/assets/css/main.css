@@ -42,19 +42,23 @@ main {
   flex-direction: column;
   margin: 1rem;
   gap: 1rem;
+  max-width: 44rem;
+  width: 90vw;
+
+  h1, h2 {
+    font-family: "Calistoga";
+    margin: 0;
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin-top: 1rem;
+  }
 
   article {
-    max-width: 48rem;
-
     time {
       font-size: 0.8rem;
       font-style: italic;
-    }
-
-    h1 {
-      font-size: 2rem;
-      font-family: "Calistoga";
-      margin: 0;
     }
   }
 }
@@ -148,6 +152,14 @@ header {
 
   nav {
     grid-column: 2 / 4;
+    display: flex;
+    gap: 2rem;
+  
+    a {
+      display: inline-block;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
   }
 }
 
@@ -202,5 +214,13 @@ footer {
 
   .header-content .header-content-socials svg {
     max-height: 20px;
+  }
+
+  .header-content nav {
+    gap: 1.5rem;
+
+    a {
+      font-size: 1rem;
+    }
   }
 }

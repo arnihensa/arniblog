@@ -2,15 +2,34 @@
 title = 'Stream Credits'
 date = 2024-04-12T12:11:01-05:00
 draft = false
-summary = "askljhdfaskldjhfasdkljf"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum ac nibh non luctus. Phasellus vestibulum lacinia nibh, a imperdiet libero dignissim et. Suspendisse posuere dolor sit amet nunc gravida, et fermentum metus efficitur. Nulla pellentesque aliquet est, nec hendrerit sem sollicitudin nec. Nulla eu lectus in eros varius suscipit eget ac nibh. Nunc sit amet egestas est, eu ultricies erat. Quisque dui enim, aliquet a efficitur at, sagittis pellentesque nunc. Donec ornare laoreet tortor vitae viverra. Fusce aliquam maximus lectus. Aenean id turpis commodo, bibendum ante vitae, euismod justo. Aenean vel cursus massa. Nulla gravida vestibulum purus in vestibulum. Nullam mattis fermentum justo, eu blandit sapien ultrices mollis. Nullam vestibulum massa a molestie pretium.
+Arni's 3D model and attic backdrop were created by Arni, with a lot of help from friends. ❤️
 
-Nulla ultrices arcu eget facilisis scelerisque. Proin a quam et arcu elementum mattis et quis tortor. Duis accumsan porttitor augue nec ullamcorper. Ut sit amet ante ac massa scelerisque tempus. Vivamus tincidunt tellus magna, et sodales diam mattis quis. Nulla facilisi. Sed porta, eros quis vulputate bibendum, elit nibh pretium libero, ut aliquam est nulla eget lorem. Nulla scelerisque semper mollis. Curabitur sit amet purus sit amet turpis consequat eleifend sed eget nunc. Duis et sem et metus bibendum imperdiet venenatis et nisl. Aliquam sit amet felis congue, iaculis turpis eget, vehicula ligula. Donec magna mi, dictum in nunc id, egestas imperdiet libero. Quisque vel tempus massa.
+2D PNGtuber by [Nic](https://www.patreon.com/nicopossum)!
 
-Nunc at dolor justo. Vivamus euismod, arcu sit amet maximus dapibus, tellus urna lobortis justo, a viverra purus arcu at metus. Nam vestibulum hendrerit congue. Nam ultrices laoreet dui, ut feugiat ante gravida eu. Fusce iaculis bibendum gravida. Donec eu felis nec turpis malesuada mollis vitae vel orci. Sed vulputate mattis libero at congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sollicitudin vehicula erat. Morbi dapibus sagittis ullamcorper. Sed et orci ornare, porta elit non, tincidunt orci. Suspendisse ultrices faucibus dignissim. Aliquam erat volutpat. Suspendisse eu congue ex, eu iaculis ex.
+## 3D Props
 
-Praesent pretium sagittis velit, in vulputate leo finibus sed. Etiam laoreet, leo quis blandit aliquam, eros nunc congue est, at maximus diam arcu aliquet est. Pellentesque ac purus turpis. Donec blandit nibh orci, et tincidunt lectus facilisis sit amet. Morbi malesuada sollicitudin purus, eget gravida lectus laoreet ac. Nam ultricies libero felis, sit amet porta urna accumsan non. Proin mi eros, dapibus ac nisi eu, iaculis commodo lacus. Suspendisse feugiat velit lorem, vitae semper est egestas et. Quisque ut ullamcorper enim, in fringilla augue. Integer sem elit, lobortis sed dignissim in, accumsan sed nibh. Maecenas id congue elit. Sed vel mi nec elit tristique fringilla a et neque. Cras sed tincidunt orci, et commodo ligula. Praesent facilisis imperdiet sapien, nec porta arcu tristique eget. Vestibulum suscipit urna at magna fringilla bibendum.
+"Rubber Duck" (https://skfb.ly/6BCuV) by emilsvfx is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-Nulla facilisi. Sed eget dolor feugiat, lacinia velit iaculis, lacinia arcu. Cras aliquam malesuada elit, nec vestibulum tortor sollicitudin in. Curabitur laoreet augue id diam tincidunt, quis dapibus felis gravida. Sed sollicitudin metus in tincidunt suscipit. Donec suscipit scelerisque magna a maximus. Fusce non mollis turpis. Donec sit amet interdum augue, tempus aliquet ante.
+"Arwing - StarFox Assault" (https://skfb.ly/onyoP) by the_regressor is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Recurve Bow" (https://skfb.ly/6svYD) by Rectus is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+"Wumpa Fruit - Crash Bandicoot PS1" (https://skfb.ly/oFnU6) by Wersaus33 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"PlayStation 2" (https://skfb.ly/6VRrn) by Smoggybeard is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+"Low poly Nintendo Gamecube" (https://skfb.ly/o9NPu) by LuisAR is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Bowl with salad" (https://skfb.ly/otMq7) by 1-3D.com is licensed under Creative Commons Attribution-ShareAlike (http://creativecommons.org/licenses/by-sa/4.0/).
+
+"Nintendo 64 - Star Fox 64 - Arwing" (https://skfb.ly/opNnG) by spencer.psi0918 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"MfnPppy01" (https://skfb.ly/oOuRW) by MO3DELS™ is licensed under Creative Commons Attribution-ShareAlike (http://creativecommons.org/licenses/by-sa/4.0/).
+
+"Banana" (https://skfb.ly/6RSSG) by firehawksoftware is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+"Vault Boy Figurine" (https://skfb.ly/ot6Eq) by hellfa is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Small chalkboard" (https://skfb.ly/oFrBy) by Sousinho is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

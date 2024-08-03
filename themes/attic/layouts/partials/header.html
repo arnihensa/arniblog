@@ -47,7 +47,13 @@
       </a>
 
     </div>
-    <nav>Navigation</nav>
+    {{- with .Site.Menus.main }}
+    <nav>
+      {{- range $key, $item := . }}
+        <a class="app-header-menu-item" href="{{ $item.URL }}">{{ $item.Name }}</a>
+      {{- end }}
+    </nav>
+    {{- end }}
   </div>
 </div>
 <div class="header-right"></div>
