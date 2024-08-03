@@ -2,13 +2,11 @@
 title = 'Blog is live!'
 date = 2024-04-13T07:50:25-05:00
 draft = false
-summary = ' '
+summary = "Welcome to my new blog!"
 +++
 
-Welcome to my new blog!
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at imperdiet velit. Cras semper sed mauris ac posuere. Aenean consequat cursus egestas. Morbi condimentum orci ut tincidunt molestie. Nam ornare tristique lorem a interdum. Duis justo eros, sollicitudin ut purus eget, viverra luctus mauris. Praesent feugiat sem id arcu laoreet congue. Cras condimentum blandit elit non vulputate. Morbi facilisis rutrum massa, vitae aliquam risus ullamcorper vitae. Suspendisse potenti. Mauris hendrerit cursus velit, sit amet facilisis urna viverra eu. Sed quam eros, viverra a suscipit eu, auctor in lectus. Etiam lectus mauris, hendrerit in odio sit amet, rutrum efficitur dui.
 
-I decided to make this website as a place for any long-form thoughts that wouldn't fit elsewhere. I haven't put a terribly large amount of thought into its design, but it's given me the chance to mess around with [Hugo](https://gohugo.io) which is pretty neat.
+Morbi finibus, ex at elementum ultricies, est tortor convallis orci, eget tristique arcu mi ut mi. Sed a sodales ligula. Integer scelerisque a purus eu sodales. Maecenas rhoncus venenatis leo in feugiat. Duis a elit facilisis, semper arcu vitae, sollicitudin lacus. Vestibulum non neque dui. Nulla facilisi. Nullam ullamcorper felis quis sagittis faucibus. Ut maximus arcu id congue porta. Integer nec condimentum purus, vitae blandit lacus. Suspendisse at nulla risus. Mauris eget turpis eu odio dictum luctus at in dui. Duis porttitor, dui non tempus porttitor, quam augue bibendum libero, ac tincidunt ipsum felis at tellus.
 
-I thought about registering a custom domain for this blog - and I may in the future - but I couldn't think of anything terribly clever, and domain renewal seems to be getting more expensive, so I decided to keep it nice and simple for now.
-
-Feel free to check out my socials on the left!
+Ut placerat urna sit amet semper dignissim. Mauris eu tellus quis odio scelerisque imperdiet quis ac turpis. Donec non elit vel purus convallis dictum. Etiam aliquam fermentum ante, ut euismod nisi consectetur quis. Praesent egestas dui tincidunt leo eleifend consequat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum facilisis, diam ut pellentesque imperdiet, ipsum arcu faucibus nisi, id gravida velit lacus eu nibh. Duis ac justo enim. Nam aliquam nisi id luctus condimentum. Nam ultrices neque et erat suscipit, sit amet cursus eros faucibus. Nunc a leo nec elit eleifend eleifend. Sed pulvinar condimentum porta. Aliquam erat volutpat. In hendrerit iaculis purus ut ultricies. Nulla a hendrerit nisl, id placerat ipsum. Maecenas tempor nulla et ligula bibendum vulputate. 
