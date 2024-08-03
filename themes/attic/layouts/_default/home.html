@@ -6,7 +6,13 @@
       {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
       {{ $dateHuman := .Date | time.Format ":date_long" }}
       <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>  
-      <p>{{ .Summary }}</p>
+      <p>
+        {{ .Summary }}
+        {{ if .Truncated }}
+        <a href="{{ .RelPermalink }}">Read more...</a>
+        {{ end }}
+      </p>
+
     </article>
   {{ end }}
 {{ end }}
