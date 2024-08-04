@@ -1,7 +1,7 @@
-baseURL = 'https://arnirat.pages.dev/'
+baseURL = 'https://arni.blog/'
 languageCode = 'en-us'
-title = 'Arni Rat'
-theme = 'm10c'
+title = 'arni.blog'
+theme = 'attic'
 enableGitInfo = true
 
 [permalinks]
@@ -9,48 +9,22 @@ enableGitInfo = true
     posts = '/:slug/'
 
 [params]
-author = 'Arni'
+author = 'Arni Hensa'
 description = 'I make software and stream weird games'
-avatar = '/pfp.png'
+avatar = '/avatar.png'
 
-[params.style]
-darkestColor = "#201813"
-darkColor = "#3a2b22"
-lightColor = "#ccccc0"
-lightestColor = "#fffff0"
-primaryColor = "#ffffdd"
+[taxonomies]
+  topic = 'topics'
+  tag = 'tags'
 
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
+weight = 2
 
 [[menu.main]]
-identifier = "schedule"
-name = "Schedule"
-url = "/schedule/"
-
-[[menu.main]]
-identifier = "credits"
-name = "Credits"
-url = "/credits/"
-
-[[params.social]]
-icon = "twitch"
-name = "Arni's Twitch"
-url = "https://twitch.tv/arnirat"
-
-[[params.social]]
-icon = "youtube"
-name = "Arni's Videos"
-url = "https://www.youtube.com/@ArniRat"
-
-[[params.social]]
-icon = "discord"
-name = "Arni's Discord"
-url = "https://discord.gg/QvH3e5Sa"
-
-[[params.social]]
-icon = "github"
-name = "Arni's Github"
-url = "https://github.com/arnihensa"
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 3
