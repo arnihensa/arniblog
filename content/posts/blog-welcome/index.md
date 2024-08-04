@@ -9,7 +9,7 @@ like I'd hoped. So let's try it once more, with feeling.
 '''
 +++
 
-When I launched this blog back in April of this year, I actually did intend to write things in it. I had plans to launch software projects, take up photography sincerely again, and do a lot of soul-searching in ways that social media couldn't accommodate. Conditions were good for resuming long-form writing.
+When I launched this blog back in April, I actually did intend to write things in it. I had plans to launch software projects, take up photography sincerely again, and do a lot of soul-searching in ways that social media couldn't accommodate. Conditions were good for resuming long-form writing.
 
 But nothing got written. I think there are two main reasons for this:
 
@@ -17,7 +17,7 @@ But nothing got written. I think there are two main reasons for this:
 
 2) The first site was _ugly_. I use Hugo to build this site, and I started with a minimalist theme that was perfectly sufficient for my needs. I am not a graphic designer by any stretch of the term, so I made only a couple cursory changes, the most noticeable being a switch from the default dark-theme gray to a darker brown (see the header above).
 
-   The result was that the entire site looked _very_. Way too much brown. Off-white text on brown background everywhere. I didn't factor how much having an ugly blog would dampen my enthusiasm for adding content to it.
+   The result was that the entire site looked _very_ brown. Way too much brown. Off-white text on brown background everywhere. I didn't factor how much having an ugly blog would dampen my enthusiasm for adding content to it.
 
 In July, I took two weeks of vacation to clear my head of anything related to work, games, streaming, coding, or daily life in general—I'll be putting up a longer post about that trip soon. While returning from daily hikes back into my usual routine has been a bummer, I think the vacation time is going to pay dividends through the rest of the year.
 
