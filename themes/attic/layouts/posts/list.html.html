@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <ul class="post-list">
+  {{ range .Pages }}
+    <li>
+      <time datetime="">{{ .PublishDate | time.Format ":date_medium" }}</time>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    </li>
+  {{ end }}
+  </ul>
+{{ end }}
