@@ -1,15 +1,11 @@
 +++
 title = 'About Arni'
-date = 2024-04-12T12:46:46-05:00
+date = 2024-08-04
 draft = false
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent consequat maximus lectus quis dictum. Pellentesque venenatis lacus sed hendrerit sodales. Maecenas euismod neque sit amet ligula fringilla laoreet ac vel neque. Nulla eu sem non sem auctor varius nec eu odio. Vestibulum aliquet velit nunc, ac faucibus magna efficitur sit amet. In fermentum hendrerit bibendum. Mauris ac pharetra ante, vitae vehicula erat. Curabitur quis orci sodales, aliquet purus semper, convallis lorem. Morbi placerat enim nec tortor vehicula, et commodo eros facilisis. Nulla gravida sed ligula nec rhoncus. Sed faucibus ligula ut ex consectetur hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque dapibus interdum sem et cursus. Nunc in fringilla ex.
+Hi! I'm Arni. Professionally, I'm a software developer, currently living near Chicago. I also do a stream where I play old and/or weird video games, and try to be funny sometimes.
 
-Vestibulum vulputate in metus sed finibus. Pellentesque est nisi, mattis vitae laoreet id, mollis ac nulla. Ut semper ex ut mi rutrum, nec maximus turpis molestie. Suspendisse id ligula mattis, tincidunt tellus non, tincidunt mauris. Aenean finibus lorem felis, in aliquam nibh pretium ac. Donec ac sagittis elit. Nulla sit amet dolor quis justo semper lacinia et eu magna. Proin et maximus lectus. Curabitur libero mi, feugiat et efficitur nec, dignissim non arcu. Donec fermentum est laoreet, molestie dui id, imperdiet tellus.
+This blog is quite new, and it's hard to say what will go here, but I intend to use it mainly to write about my current projects, and whatever else is on my mind.
 
-Curabitur condimentum neque non eros cursus posuere. Aliquam sed dolor ut diam rutrum posuere. Nullam consequat felis vel tellus mollis hendrerit. Duis nec tellus erat. Fusce auctor interdum felis. Nulla ante felis, mattis facilisis venenatis non, sagittis aliquet elit. Phasellus bibendum ipsum ac dapibus malesuada. Curabitur id magna tellus. Vivamus ante ex, maximus sed quam et, feugiat placerat nisl. Integer posuere justo non facilisis ornare. Donec rutrum, magna ut euismod viverra, neque ipsum posuere diam, ut malesuada urna velit vitae velit. Maecenas rutrum sapien at accumsan dignissim. Maecenas a blandit velit. Cras in volutpat mauris. Nulla lobortis metus nec eros efficitur, cursus consequat sapien hendrerit.
-
-Aliquam erat volutpat. Phasellus vel volutpat eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus rutrum odio nec arcu cursus venenatis. Nunc et maximus mauris. Ut accumsan efficitur magna, et lacinia arcu pulvinar eu. Vivamus non mollis eros. Donec maximus, erat sed tincidunt bibendum, ipsum eros semper est, ac rutrum sem tellus vestibulum lorem. Vestibulum ultricies lobortis pellentesque. Pellentesque vitae dolor non metus finibus sodales vestibulum a justo. Ut ornare nunc arcu, quis eleifend lorem sagittis sed.
-
-Nulla facilisi. Nulla ullamcorper, elit non ornare dignissim, justo elit eleifend odio, sed finibus tellus lectus at massa. Nullam egestas, justo et tincidunt tempus, lectus elit ullamcorper nisl, et tempor turpis mauris vel arcu. Integer risus ex, ultrices aliquet accumsan sed, varius feugiat lectus. Integer nisl dui, elementum eu enim nec, viverra luctus risus. Etiam pharetra pulvinar rhoncus. Curabitur lectus tortor, mattis a congue vel, hendrerit quis sapien. Proin feugiat mollis orci. Vestibulum imperdiet nulla nec dignissim varius. In nibh nulla, posuere sed consectetur in, laoreet et risus. Nulla at dolor mi. Aliquam erat volutpat. Praesent sodales dui nec imperdiet euismod. 
+(Expect this page to change in the near future!)
