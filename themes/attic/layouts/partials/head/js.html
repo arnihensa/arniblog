@@ -10,3 +10,11 @@
     {{- end }}
   {{- end }}
 {{- end }}
+
+{{ with resources.Get "js/glightbox.js" }}
+  <script src="{{ .RelPermalink }}"></script>
+{{ end }}
+
+<script type="text/javascript">
+  const lightbox = GLightbox();
+</script>

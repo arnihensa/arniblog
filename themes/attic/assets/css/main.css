@@ -249,3 +249,18 @@ footer {
     }
   }
 }
+
+.photogrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 0.5em;
+  margin-bottom: 1em;
+
+  a {
+    line-height: 0;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
