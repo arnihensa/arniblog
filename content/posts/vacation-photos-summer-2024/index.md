@@ -6,6 +6,8 @@ draft = false
 
 Compiled photographs from my largely-improvised tour of various state parks in Wisconsin and Minnesota.
 
+<!--more-->
+
 ## Council Grounds State Park, Merrill, Wisconsin
 
 <div class="photogrid">
