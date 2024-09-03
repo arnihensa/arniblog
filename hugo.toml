@@ -4,6 +4,9 @@ title = 'arni.blog'
 theme = 'attic'
 enableGitInfo = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [permalinks]
   [permalinks.page]
     posts = '/:slug/'
