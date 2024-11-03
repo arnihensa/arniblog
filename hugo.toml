@@ -8,17 +8,18 @@ enableGitInfo = true
 unsafe = true
 
 [permalinks]
-  [permalinks.page]
-    posts = '/:slug/'
+[permalinks.page]
+posts = '/:slug/'
 
 [params]
 author = 'Arni Hensa'
 description = 'I make software and stream weird games'
 avatar = '/avatar.png'
+images = [ 'og-preview.png' ]
 
 [taxonomies]
-  topic = 'topics'
-  tag = 'tags'
+topic = 'topics'
+tag = 'tags'
 
 [[menu.main]]
 identifier = "about"
