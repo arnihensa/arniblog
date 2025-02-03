@@ -24,9 +24,9 @@ We will have nothing resembling a federal government. All orders will come from 
 
 Much of the environment as we know it will be gone. FEMA will be gone.
 
-Vaccines will be gone. Trans health care for children -and- adults will be gone. A large chunk of healthcare in general will be gone, for those who can still afford it.
+Vaccines will be gone. Trans health care for children *and* adults will be gone. A large chunk of healthcare in general will be gone, for those who can still afford it.
 
-Obergefell, gone. Civil Rights Act, gone. Abortion, gone. Porn, gone.
+Obergefell, gone. Civil Rights Act, gone. Abortion, gone. Whatever they deem "porn," gone.
 
 Privacy, consumed by Google and Aamzon. Art, consumed by AI. What's left of the internet, consumed by the Department of Truth.
 
