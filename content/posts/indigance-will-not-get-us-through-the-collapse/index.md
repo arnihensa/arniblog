@@ -28,7 +28,7 @@ Vaccines will be gone. Trans health care for children *and* adults will be gone.
 
 Obergefell, gone. Civil Rights Act, gone. Abortion, gone. Whatever they deem "porn," gone.
 
-Privacy, consumed by Google and Aamzon. Art, consumed by AI. What's left of the internet, consumed by the Department of Truth.
+Privacy, consumed by Google and Amazon. Art, consumed by AI. What's left of the internet, consumed by the Department of Truth.
 
 That's the tip of the iceberg. None of us know how much worse things will get, or for how long.
 
