@@ -30,6 +30,10 @@ Obergefell, gone. Civil Rights Act, gone. Abortion, gone. Whatever they deem "po
 
 Privacy, consumed by Google and Amazon. Art, consumed by AI. What's left of the internet, consumed by the Department of Truth.
 
+Ukraine, gone.
+
+Elections, gone.
+
 That's the tip of the iceberg. None of us know how much worse things will get, or for how long.
 
 Is it possible not all of these things will happen? I guess. I only maintain that it's unhealthy to imagine they won't. I want to commiserate with the experience of realizing that none of the safeguards you thought were inherent to the American experience are real, nor have they ever been real. That all that we really have is us. And if you haven't realized that yet, you probably should. Indignance will not keep you alive.
